@@ -7,7 +7,7 @@ math = true          # enable KaTeX (https://katex.org/) globally
 
 [services]
   [services.googleAnalytics]
-    id = ""  # add your tracking id
+    id = "G-CYDXQN1LQ9"  # add your tracking id
 
 [params]
   author = "Xavier Chen"
