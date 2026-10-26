@@ -131,7 +131,6 @@ the future):
 Other interests:
 
 - I like playing Chess.
-- I like participating in LeetCode and Codeforces contests.
 - I like ricing (customising) my development environment (e.g. NeoVim (btw) and
   terminal, WezTerm). See my
   [dotfiles](https://github.com/xavierchen0/dotfiles)!
