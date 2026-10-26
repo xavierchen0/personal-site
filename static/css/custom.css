@@ -1,0 +1,25 @@
+#content ul ul {
+    padding-left: 1rem;
+}
+
+#content ul ul > li {
+    margin-left: 0.25rem;
+}
+
+#content .pencil-controls {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
+    margin-top: 1rem;
+}
+
+.pencil-carousel {
+    width: 100%;
+    margin: 1.5rem 0 1.5rem;
+}
+
+#footer a.fa-1x {
+    font-size: 1.5rem;
+    margin: 0 0.3rem;
+}
