@@ -175,7 +175,7 @@ are the pencils that I have used:
       <img src="/images/pencils/mitsubishi_sharpener.webp"
            alt="Mitsubishi KH-20 Pencil Sharpener">
       <figcaption>
-        Mitsubishi KH-20 Pencil Sharpner - Every good pencil deserves a good sharpener, and this has consistently delivered the classic sharp pointy tip to all my pencils.
+        Mitsubishi KH-20 Pencil Sharpener - Every good pencil deserves a good sharpener, and this has consistently delivered the classic sharp pointy tip to all my pencils.
       </figcaption>
     </figure>
   </div>
