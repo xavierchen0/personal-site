@@ -195,10 +195,10 @@ These are the keyboards I have used:
 <div class="pencil-carousel">
   <div class="pencil-slides">
     <figure class="pencil-slide" hidden>
-      <img src="/images/keyboards/macbook_keyboard.webp"
-           alt="Macbook Keyboard">
+      <img src="/images/keyboards/split_keyboard.webp"
+           alt="Lily58 Pro Split Keyboard">
       <figcaption>
-        Macbook Keyboard - Honestly, Apple has done a great job with the keyboard. It is just the right amount of tactile feedback and it is very pleasant to type on.
+        Lily58 Pro Split Keyboard - The first split keyboard I have built. It was more expensive than I thought as you will require soldering equipment. It also took longer than expected to build as it was my first time soldering, but it was great fun and I enjoyed it!
       </figcaption>
     </figure>
     <figure class="pencil-slide" hidden>
@@ -209,10 +209,10 @@ These are the keyboards I have used:
       </figcaption>
     </figure>
     <figure class="pencil-slide" hidden>
-      <img src="/images/keyboards/split_keyboard.webp"
-           alt="Lily58 Pro Split Keyboard">
+      <img src="/images/keyboards/macbook_keyboard.webp"
+           alt="Macbook Keyboard">
       <figcaption>
-        Lily58 Pro Split Keyboard - The first split keyboard I have built. It was more expensive than I thought as you will require soldering equipment. It also took longer than expected to build as it was my first time soldering, but it was great fun and I enjoyed it!
+        Macbook Keyboard - Honestly, Apple has done a great job with the keyboard. It is just the right amount of tactile feedback and it is very pleasant to type on.
       </figcaption>
     </figure>
   </div>
