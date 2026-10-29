@@ -10,11 +10,13 @@ currently in National University of Singapore ([NUS](https://nus.edu.sg/)) doing
 a Master of Computing (MComp).
 
 Personally, programming has always been something I enjoyed doing. There's a
-peculiar satisfaction in writing code that I've never been able to put into
-words. Perhaps it's the structure, the syntax, or simply the feeling of watching
-a few lines of code come together. Whatever it is, I find the process of writing
-it pleasant in its own right (perhaps that's why I use
-[NeoVim](https://neovim.io/) (btw)) [^coding].
+peculiar satisfaction in writing code that I've never been able to quite put
+into words. Perhaps it's the structure, the syntax, or simply the feeling of
+watching a few lines of code come together. Sometimes it's the satisfaction you
+get AFTER you have wrote the code. Like looking at it and go, "wow I wrote that?
+I must be a genius!". Whatever it is, I find the process of writing code
+pleasant in its own right (perhaps that's why I use [NeoVim](https://neovim.io/)
+(btw))[^coding].
 
 Despite my programming interests, I did not do too well in my A-Levels, and this
 has barred me from several University courses that I had found appealing,
@@ -31,7 +33,7 @@ anything related to Computer Science and Technology. There's always something
 new to learn, and I enjoy following whatever happens to pique my curiosity.
 Sometimes, I even branched out to other topics like Physics and Politics. Like
 learning that anti-electrons (called positrons) exists, and when they interact
-with electrons, they annihilate each other. There are even anti-matter and the
+with electrons, they annihilate each other. There are even anti-matter, and the
 most bizarre mystery is why our universe contains more matter than anti-matter
 (think about it ... if it's equal, they will annihilate each other, and we
 wouldn't have existed!), which is also called the
