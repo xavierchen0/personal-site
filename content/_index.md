@@ -53,7 +53,7 @@ I am **currently**:
     - [IT5002 Computer Systems and Applications](https://nusmods.com/courses/IT5002/computer-systems-and-applications):
       How computers go beep boop, and Assembly.
     - [IT5008 Database Design and Programming](https://nusmods.com/courses/IT5008/database-design-and-programming):
-      Squeal (SQL), Relational Algebra and Set Theory.
+      Squeal (SQL), Relational Algebra and Normalisation Theory.
 
 ---
 
