@@ -29,5 +29,7 @@
     {{ if .Params.noindex -}}
     <meta name="robots" content="noindex">
     {{ end -}}
-    <script src="{{ "js/pencil-carousel.js" | relURL }}" defer></script>
+    {{ if .HasShortcode "carousel" }}
+        <script src="{{ "js/carousel.js" | relURL }}" defer></script>
+    {{ end }}
 </head>

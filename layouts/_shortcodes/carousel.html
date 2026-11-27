@@ -1,0 +1,20 @@
+{{ $name := .Get 0 }}
+{{ with index (.Page.Params.galleries | default dict) $name }}
+<div class="photo-carousel" role="group" aria-label="{{ humanize $name }}">
+    {{ range . }}
+    <figure>
+        <img src="{{ .src | relURL }}" alt="{{ .alt }}" loading="lazy">
+        <figcaption>{{ .caption }}</figcaption>
+    </figure>
+    {{ end }}
+    {{ if gt (len .) 1 }}
+    <div class="photo-carousel-controls" hidden>
+        <button type="button" data-previous aria-label="Previous photo">&lt;-</button>
+        <output aria-live="polite"></output>
+        <button type="button" data-next aria-label="Next photo">-&gt;</button>
+    </div>
+    {{ end }}
+</div>
+{{ else }}
+    {{ errorf "Carousel %q has no photos. Add photos to galleries.%s in the page front matter (%s)." $name $name .Position }}
+{{ end }}

@@ -1,6 +1,46 @@
 +++
 title = "about"
 draft = false
+
+[[galleries.pencils]]
+src = "images/pencils/mitsubishi_9800_pencil.webp"
+alt = "Mitsubishi 9800 pencil"
+caption = "Mitsubishi 9800 - Very smooth and just the right amount of roughness. I also really like the design of the pencil and the box, which is giving this old-school Japanese aesthetic."
+
+[[galleries.pencils]]
+src = "images/pencils/mitsubishi_hiuni_pencil.webp"
+alt = "Mitsubishi Hi-Uni pencil"
+caption = "Mitsubishi Hi-Uni - First premium pencil that I had bought. I really like the smoothness but it does not have the roughness that I enjoy. Still like it though."
+
+[[galleries.pencils]]
+src = "images/pencils/staedtler_pencil.webp"
+alt = "Staedtler Norica pencil"
+caption = "Staedtler Norica - First pencil I owned. Kinda rough when writing."
+
+[[galleries.pencils]]
+src = "images/pencils/muji_pencil.webp"
+alt = "Muji pencil"
+caption = "Muji - Surprising good for how cheap it is. I also really like the wooden barrel."
+
+[[galleries.pencils]]
+src = "images/pencils/mitsubishi_sharpener.webp"
+alt = "Mitsubishi KH-20 Pencil Sharpener"
+caption = "Mitsubishi KH-20 Pencil Sharpener - Every good pencil deserves a good sharpener, and this has consistently delivered the classic sharp pointy tip to all my pencils."
+
+[[galleries.keyboards]]
+src = "images/keyboards/split_keyboard.webp"
+alt = "Lily58 Pro Split Keyboard"
+caption = "Lily58 Pro Split Keyboard - The first split keyboard I have built. It was more expensive than I thought as you will require soldering equipment. It also took longer than expected to build as it was my first time soldering, but it was great fun and I enjoyed it!"
+
+[[galleries.keyboards]]
+src = "images/keyboards/kinesis_keyboard.webp"
+alt = "Kinesis Advantage2 Keyboard"
+caption = "Kinesis Advantage2 Keyboard - My first ergonomic keyboard and it has been my daily driver for a really long time. Despite its odd design, it is suprising comfortable to type on and I almost never have typing fatigue. However, the sound is not very satisfying; imagine hitting a hollow plastic container."
+
+[[galleries.keyboards]]
+src = "images/keyboards/macbook_keyboard.webp"
+alt = "Macbook Keyboard"
+caption = "Macbook Keyboard - Honestly, Apple has done a great job with the keyboard. It is just the right amount of tactile feedback and it is very pleasant to type on."
 +++
 
 # about
@@ -115,89 +155,13 @@ sound it makes as I write. What's also nice and truly unique about pencils is
 how the writing experience changes as the point gradually wears down. Everytime
 you write, it is always slightly different! These are the pencils I have used:
 
-<div class="pencil-carousel">
-  <div class="pencil-slides">
-    <figure class="pencil-slide" hidden>
-      <img src="/images/pencils/mitsubishi_9800_pencil.webp"
-           alt="Mitsubishi 9800 pencil">
-      <figcaption>
-        Mitsubishi 9800 - Very smooth and just the right amount of roughness. I also really like the design of the pencil and the box, which is giving this old-school Japanese aesthetic.
-      </figcaption>
-    </figure>
-    <figure class="pencil-slide" hidden>
-      <img src="/images/pencils/mitsubishi_hiuni_pencil.webp"
-           alt="Mitsubishi Hi-Uni pencil">
-      <figcaption>
-        Mitsubishi Hi-Uni - First premium pencil that I had bought. I really like the smoothness but it does not have the roughness that I enjoy. Still like it though.
-      </figcaption>
-    </figure>
-    <figure class="pencil-slide">
-      <img src="/images/pencils/staedtler_pencil.webp"
-           alt="Staedtler Norica pencil">
-      <figcaption>
-        Staedtler Norica - First pencil I owned. Kinda rough when writing.
-      </figcaption>
-    </figure>
-    <figure class="pencil-slide" hidden>
-      <img src="/images/pencils/muji_pencil.webp"
-           alt="Muji pencil">
-      <figcaption>
-        Muji - Surprising good for how cheap it is. I also really like the wooden barrel.
-      </figcaption>
-    </figure>
-    <figure class="pencil-slide" hidden>
-      <img src="/images/pencils/mitsubishi_sharpener.webp"
-           alt="Mitsubishi KH-20 Pencil Sharpener">
-      <figcaption>
-        Mitsubishi KH-20 Pencil Sharpener - Every good pencil deserves a good sharpener, and this has consistently delivered the classic sharp pointy tip to all my pencils.
-      </figcaption>
-    </figure>
-  </div>
-  <div class="pencil-controls">
-    <button class="pencil-prev" type="button"
-            aria-label="Previous pencil"><-</button>
-    <span class="pencil-counter">1 / 3</span>
-    <button class="pencil-next" type="button"
-            aria-label="Next pencil">-></button>
-  </div>
-</div>
+{{< carousel "pencils" >}}
 
 As a programmer, my "hammer" (tool) is my keyboard. If I am going to spend many
 hours using it, I should at least treat myself with a good keyboard ... right?
 These are the keyboards I have used:
 
-<div class="pencil-carousel">
-  <div class="pencil-slides">
-    <figure class="pencil-slide" hidden>
-      <img src="/images/keyboards/split_keyboard.webp"
-           alt="Lily58 Pro Split Keyboard">
-      <figcaption>
-        Lily58 Pro Split Keyboard - The first split keyboard I have built. It was more expensive than I thought as you will require soldering equipment. It also took longer than expected to build as it was my first time soldering, but it was great fun and I enjoyed it!
-      </figcaption>
-    </figure>
-    <figure class="pencil-slide" hidden>
-      <img src="/images/keyboards/kinesis_keyboard.webp"
-           alt="Kinesis Advantage2 Keyboard">
-      <figcaption>
-        Kinesis Advantage2 Keyboard - My first ergonomic keyboard and it has been my daily driver for a really long time. Despite its odd design, it is suprising comfortable to type on and I almost never have typing fatigue. However, the sound is not very satisfying; imagine hitting a hollow plastic container.
-      </figcaption>
-    </figure>
-    <figure class="pencil-slide" hidden>
-      <img src="/images/keyboards/macbook_keyboard.webp"
-           alt="Macbook Keyboard">
-      <figcaption>
-        Macbook Keyboard - Honestly, Apple has done a great job with the keyboard. It is just the right amount of tactile feedback and it is very pleasant to type on.
-      </figcaption>
-    </figure>
-  </div>
-  <div class="pencil-controls">
-    <button class="pencil-prev" type="button"
-            aria-label="Previous pencil"><-</button>
-    <span class="pencil-counter">1 / 3</span>
-    <button class="pencil-next" type="button"
-            aria-label="Next pencil">-></button>
-  </div>
-</div>
+{{< carousel "keyboards" >}}
 
 [^coding]:
     Perhaps that's why I have mixed feelings about agentic AI coding tools. I am

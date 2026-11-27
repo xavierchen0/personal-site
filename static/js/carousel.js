@@ -1,7 +1,9 @@
-document.querySelectorAll(".pencil-carousel").forEach((carousel) => {
-    const slides = [...carousel.querySelectorAll(".pencil-slide")];
-    const counter = carousel.querySelector(".pencil-counter");
+document.querySelectorAll(".photo-carousel").forEach((carousel) => {
+    const controls = carousel.querySelector(".photo-carousel-controls");
+    if (!controls) return;
 
+    const slides = carousel.querySelectorAll("figure");
+    const counter = controls.querySelector("output");
     let current = 0;
 
     function showSlide(index) {
@@ -14,11 +16,12 @@ document.querySelectorAll(".pencil-carousel").forEach((carousel) => {
         counter.textContent = `${current + 1} / ${slides.length}`;
     }
 
-    carousel.querySelector(".pencil-prev")
+    controls.querySelector("[data-previous]")
         .addEventListener("click", () => showSlide(current - 1));
 
-    carousel.querySelector(".pencil-next")
+    controls.querySelector("[data-next]")
         .addEventListener("click", () => showSlide(current + 1));
 
     showSlide(0);
+    controls.hidden = false;
 });
