@@ -1,0 +1,7 @@
+<article class="project-entry">
+    <h2><a href="{{ .Get "url" }}">{{ .Get "name" }}</a></h2>
+    <div class="project-copy">
+        {{ .Page.RenderString (dict "display" "block") .Inner }}
+    </div>
+    <small class="project-stack">{{ .Get "stack" }}</small>
+</article>
