@@ -23,29 +23,39 @@
     margin: 0 0.3rem;
 }
 
-.project-entry {
+.project-entry,
+.writing-entry {
     display: grid;
+    padding: 1rem 0;
+}
+
+.project-entry {
     grid-template-columns: minmax(0, 1fr) minmax(0, 2fr);
     grid-template-rows: auto 1fr;
     grid-template-areas:
         "name  copy"
         "stack copy";
     gap: 0.3rem 1.5rem;
-    padding: 1rem 0;
 }
 
-.project-entry + .project-entry {
+.project-entry + .project-entry,
+.writing-entry + .writing-entry {
     border-top: 1px solid #dedede;
+}
+
+#content .project-entry h2,
+#content .writing-entry h2 {
+    font-size: 1.2rem;
+    margin: 0;
 }
 
 #content .project-entry h2 {
     grid-area: name;
-    font-size: 1.2rem;
     line-height: 1.2;
-    margin: 0;
 }
 
-.project-entry h2 a {
+.project-entry h2 a,
+.writing-entry h2 a {
     font: inherit;
 }
 
@@ -77,6 +87,32 @@
     line-height: 1.4;
 }
 
+.writing-entry {
+    grid-template-columns: minmax(0, 1fr) auto;
+    align-items: baseline;
+    gap: 0.4rem 1.5rem;
+}
+
+#content .writing-meta {
+    margin: 0;
+    color: #626262;
+    font-size: 0.85rem;
+    line-height: 1.4;
+}
+
+.writing-meta > * {
+    color: inherit;
+    font: inherit;
+}
+
+.writing-body {
+    margin-top: 1.25rem;
+}
+
+.writing-body p, .writing-body li {
+    line-height: 1.5;
+}
+
 @media (max-width: 36rem) {
     .project-entry {
         grid-template-columns: minmax(0, 1fr);
@@ -86,5 +122,9 @@
             "copy"
             "stack";
         gap: 0.4rem;
+    }
+
+    .writing-entry {
+        grid-template-columns: minmax(0, 1fr);
     }
 }
