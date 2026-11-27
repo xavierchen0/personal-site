@@ -134,8 +134,7 @@ I love skiing 🏔️⛷️ and these are the places I've skied at:
 - Borovets, Bulgaria 🇧🇬.
 
 I also enjoy hiking 🏔️🚶‍♂️ (you can probably guessed that I enjoy being in the
-mountains). These are the places I've hiked (hoping to grow this list further in
-the future):
+mountains). These are the places I've hiked:
 
 - Arthur's Seat (Edinburgh) | Old Man of Storr (Isle of Skye) | Sumburgh
   Lighthouse (Shetland), Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿.
