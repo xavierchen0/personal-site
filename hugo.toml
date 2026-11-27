@@ -1,6 +1,5 @@
 title = "Xavier Chen"
 baseURL = "https://xavierchenjq.com"
-theme = "researcher"
 disableKinds = ["taxonomy", "term"]
 enableEmoji = true
 math = true          # enable KaTeX (https://katex.org/) globally
