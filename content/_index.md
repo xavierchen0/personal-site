@@ -9,37 +9,11 @@ Hello, I'm Xavier Chen and I'm an aspiring Software Engineer in Singapore. I am
 currently in National University of Singapore ([NUS](https://nus.edu.sg/)) doing
 a Master of Computing (MComp).
 
-Personally, programming has always been something I enjoyed doing. There's a
-peculiar satisfaction in writing code that I've never been able to quite put
-into words. Perhaps it's the structure, the syntax, or simply the feeling of
-watching a few lines of code come together. Sometimes it's the satisfaction you
-get AFTER you have wrote the code. Like looking at it and go, "wow I wrote that?
-I must be a genius!". Whatever it is, I find the process of writing code
-pleasant in its own right (perhaps that's why I use [NeoVim](https://neovim.io/)
-(btw))[^coding].
-
-Despite my programming interests, I did not do too well in my A-Levels, and this
-has barred me from several University courses that I had found appealing,
-including Computer Science (CS). I ended up choosing Business instead as it was,
-at that point in time, something I could get into and something I had somewhat
-of an interest in. Nevertheless, my interest in CS never faded. Throughout my
-Business degree, I continued programming in my spare time, using whatever
-pockets of time I could find to explore the various facets of CS. Now, things
-have come full circle. I'm finally studying the subject I had hoped to pursue
-all those years ago :)!
-
-These days, I find myself reading articles and watching videos about just about
-anything related to Computer Science and Technology. There's always something
-new to learn, and I enjoy following whatever happens to pique my curiosity.
-Sometimes, I even branched out to other topics like Physics and Politics. Like
-learning that anti-electrons (called positrons) exists, and when they interact
-with electrons, they annihilate each other. There are even anti-matter, and the
-most bizarre mystery is why our universe contains more matter than anti-matter
-(think about it ... if it's equal, they will annihilate each other, and we
-wouldn't have existed!), which is also called the
-[matter-antimatter asymmetry problem](https://en.wikipedia.org/wiki/Baryon_asymmetry).
-Or, China's 5-D chess move on its global oil import and stockpiling strategy
-during the 2026's Oil Crisis.
+I like coding, as in actually typing the code out (I use
+[NeoVim](https://neovim.io/), btw). There's something oddly satisfying about
+turning the logic in my head into lines of code that I've never quite been able
+to explain. Sometimes it's just looking back at what I've written and going,
+"wow, I wrote that? I must be a genius!" [^coding]
 
 ---
 
@@ -106,8 +80,7 @@ In **SMU**:
 
 ---
 
-I believe that as humans we should be kind towards one another, and help out
-whenever we can. Hence,
+I try to volunteer whenever I can, so:
 
 - I've donated blood 12 times (and counting!) @ [HSA's](https://www.hsa.gov.sg/)
   blood banks.
@@ -119,14 +92,13 @@ I love skiing 🏔️⛷️ and these are the places I've skied at:
 - Hakuba, Japan 🇯🇵.
 - Alpe d'Huez, France 🇫🇷.
 - Borovets, Bulgaria 🇧🇬.
-- MonaYongPyong, South Korea 🇰🇷.
 
 I also enjoy hiking 🏔️🚶‍♂️ (you can probably guessed that I enjoy being in the
 mountains). These are the places I've hiked (hoping to grow this list further in
 the future):
 
-- Arthur's Seat (Edinburgh) | Old Man of Storr (Isle of Skye) | Lerwick Coastal
-  Walk (Shetland) | Sumburgh Lighthouse Hike (Shetland), Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿.
+- Arthur's Seat (Edinburgh) | Old Man of Storr (Isle of Skye) | Sumburgh
+  Lighthouse (Shetland), Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿.
 - Fort de la Bastille (Grenoble), France 🇫🇷.
 - Mount Kinabalu (Borneo) | Mount Batur (Bali), Indonesia 🇮🇩.
 
@@ -137,11 +109,11 @@ Other interests:
   terminal, WezTerm). See my
   [dotfiles](https://github.com/xavierchen0/dotfiles)!
 
-I like using wooden pencils (over pens). There is a certain satisfaction with
-writing with a pencil. Part of it comes from the subtle "scratchiness" of
-graphite against paper, and how the writing experience gradually changes as the
-pencil tip wears down. Everytime you write, it feels a little different! Here
-are the pencils that I have used:
+I like writing with wooden pencils. As smooth as pens are, I much prefer the
+slight scratchiness of graphite against paper, both for the way it feels and the
+sound it makes as I write. What's also nice and truly unique about pencils is
+how the writing experience changes as the point gradually wears down. Everytime
+you write, it is always slightly different! These are the pencils I have used:
 
 <div class="pencil-carousel">
   <div class="pencil-slides">
