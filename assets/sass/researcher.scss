@@ -153,6 +153,9 @@ $y-medium: 1.0rem;
         & > pre {
             padding: 8px 8px;
         }
+        span {
+            color: inherit;
+        }
     }
 }
 #footer {
